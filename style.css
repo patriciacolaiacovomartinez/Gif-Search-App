@@ -5,12 +5,15 @@
 
 body {
     margin: 0;
+    background-color: #0072C6;
 }
 
 h1 {
     font-size: 50px;
     text-align: center;
     font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
     font-weight: lighter;
 }
 
